@@ -10,3 +10,15 @@ target
 *backup
 *Backup
 *bower_components/
+
+*.iml
+*.idea
+*.ipr
+*.iws
+*.hprof
+out
+build
+captures
+.gradle
+.DS_Store
+local.properties
